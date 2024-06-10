@@ -8,99 +8,110 @@
   - **TFSA Benefits:** Investments grow tax-free, and withdrawals are also tax-free.
   - **Avoiding Deemed Disposition:** When you lose tax residency in Canada, assets in RRSP and TFSA are not subject to deemed disposition rules, which trigger capital gains tax.
 
-### 2) Cashing Out Non-KYCd Wallets
+### 2) Stealth Fortress Strategy
 
-<img src="../assets/non-kyc-plan.png"/>
+- Basically this strategy involves buying MATIC in a CEX, using a bridge like Rubic to convert it to Monero, do multiple swap to erase traces, and use Rubic again to get the desired tokens, but now stored in NON-KYCD wallets.
 
-1. **Convert Funds to Monero via Rubic:**
+<img src="../assets/stealth-fortress-plan.png">
 
-   - Use Rubic to convert your funds to Monero (XMR), a cryptocurrency known for its privacy features.
+#### Fiat x Crypto
 
-2. **Transfer Monero to Multiple Wallets:**
+##### Option A
 
-   - Transfer Monero from MoneroWallet1 to MoneroWallet2 to enhance privacy and minimize traceability.
+1. **Transfer Funds from Canada to Brazil, Monthly:**
 
-3. **Transfer to Non-KYC Wallet:**
+   - **Action:** Move funds transparently from Canadian to Brazilian bank accounts.
+   - **Benefit:** Ensures clear and documented transfer out of Canadian jurisdiction.
 
-   - Transfer Monero from MoneroWallet2 to a non-KYC wallet to maintain anonymity.
+2. **Transfer Funds from Brazilian Bank to ByBit:**
 
-4. **Store in Hardware Wallet:**
+   - **Action:** Send funds from Brazilian bank to ByBit for purchasing crypto assets.
+   - **Benefit:** Maintains transparency and legal compliance.
 
-   - Transfer the crypto assets from the non-KYC wallet to a hardware wallet for added security.
+3. **On a Centralized Exchange, Buy MATIC:**
 
-5. **Change Tax Residency:**
+   - **Action:** Buy MATIC on a CEX and withdraw to a KYC'd wallet (MetaMask).
+   - **Benefit:** Directly links the purchase to a known and transparent exchange.
 
-   - Declare your exit from Canada and officially change your tax residency to Brazil.
+#### Option B
 
-6. **Gradual Sale from Hardware Wallet:**
-   - Gradually transfer crypto assets from the hardware wallet to the non-KYC wallet for sale, ensuring each transaction respects the BRL 35,000 per month exemption to avoid triggering tax events.
+1. **Use Bisq**
+   - Buy BTC with Fiat through bis
 
-### Ranking and Evaluation
+#### Option C
 
-#### Security and Privacy
+1. **Buy XMR Using Kraken**
 
-**⭐⭐⭐⭐⭐ (5 Stars)**
+- Not ideal, because it will leave logs.
 
-- **Pros:**
-  - **High Privacy:** Using Monero and multiple wallets significantly enhances privacy.
-  - **Non-KYC Wallets:** Avoiding KYC ensures greater anonymity.
-- **Cons:**
-  - **Complexity:** Managing multiple wallets and swaps increases complexity.
+#### Next Steps
 
-#### Conformity with Regulations
+4. **Convert Funds to Monero via Rubic USING MULLVAD VPN:**
 
-**⭐⭐⭐⭐ (4 Stars)**
+   - **Action:** Convert MATIC to Monero using Rubic.
+   - **Benefit:** Provides privacy through Monero.
+   - **VPN:** Use Mullvad VPN for enhanced privacy. They don't keep logs either.
 
-- **Pros:**
-  - **Initial Compliance:** Converting funds to Monero while still in Canada ensures compliance with initial regulations.
-  - **Gradual Sale:** Respecting the BRL 35,000 exemption ensures compliance with Brazilian tax laws.
-- **Cons:**
-  - **Scrutiny:** There may be scrutiny regarding the source of funds when converting to fiat in Brazil.
-  - **Documentation:** Requires meticulous record-keeping to justify the source of funds if questioned.
+5. **Transfer Monero to Multiple Wallets:**
 
-#### Ease of Execution
+   - **Action:** Transfer Monero between MONERO wallets for enhanced privacy. (eg. Monero A => Monero B)
+   - **Benefit:** Reduces traceability.
 
-**⭐⭐⭐ (3 Stars)**
+6. **Transfer to Non-KYC Wallet:**
 
-- **Pros:**
-  - **Direct Conversion:** Using Rubic for direct conversion to Monero simplifies the process.
-- **Cons:**
-  - **Technical Complexity:** Requires familiarity with multiple wallets and Monero.
-  - **Management:** More steps and wallet management compared to simpler strategies.
+   - **Action:** Move Monero from the final wallet to a non-KYC wallet.
+   - **Benefit:** Maintains anonymity.
 
-#### Flexibility and Liquidity
+7. **Store in Hardware Wallet:**
 
-**⭐⭐⭐⭐ (4 Stars)**
+   - **Action:** Store crypto assets securely in a hardware wallet.
+   - **Benefit:** Ensures security against hacks and theft.
 
-- **Pros:**
-  - **Liquidity:** Using Monero ensures liquidity and ease of transfer.
-  - **Flexibility:** Allows gradual sales to manage tax impact and cash flow.
-- **Cons:**
-  - **Conversion Time:** Swaps and multiple transfers may introduce delays.
+8. **Change Tax Residency:**
 
-#### Risks and Considerations
+   - **Action:** Declare exit from Canada and establish tax residency in Brazil.
+   - **Benefit:** Shifts tax obligations to Brazil.
 
-**⭐⭐⭐⭐ (4 Stars)**
+9. **Gradual Sale from Hardware Wallet:**
+   - **Action:** Gradually transfer crypto assets for sale, respecting BRL 35,000 per month exemption.
+   - **Benefit:** Minimizes tax liabilities in Brazil.
 
-- **Pros:**
-  - **Minimized Traceability:** Using Monero and multiple wallets minimizes traceability.
-  - **Security:** Storing in a hardware wallet adds a layer of security.
-- **Cons:**
-  - **Market Volatility:** Fluctuations in Monero's value during swaps and transfers.
-  - **Legal Scrutiny:** Potential for legal scrutiny when converting to fiat.
+### Enhanced Risk Management
+
+1. **Engage Tax Professionals:**
+
+   - **Canada:** Ensure all transfers and declarations comply with Canadian tax laws.
+   - **Brazil:** Optimize sales and compliance with Brazilian tax laws.
+
+2. **Detailed Documentation:**
+
+   - **Log All Transactions:** Keep detailed records of every step, including Monero conversions and transfers.
+
+3. **Backup and Recovery:**
+
+   - **Secure Backups:** Implement a robust backup plan for wallet seeds and keys.
+
+4. **Simplified Process:**
+   - **Streamline Steps:** Reduce the number of intermediary steps to make the process more manageable.
 
 ### Summary
 
-- **Security and Privacy:** ⭐⭐⭐⭐⭐
-- **Conformity with Regulations:** ⭐⭐⭐⭐
-- **Ease of Execution:** ⭐⭐⭐
-- **Flexibility and Liquidity:** ⭐⭐⭐⭐
-- **Risks and Considerations:** ⭐⭐⭐⭐
+**Legal Compliance:**
 
-### Overall Rating
+- Full engagement with tax professionals in both Canada and Brazil to ensure all transactions are compliant.
 
-**⭐⭐⭐⭐ (4 Stars)**
+**Privacy and Security:**
 
-### Conclusion
+- Detailed documentation and enhanced security measures for all wallets and transactions.
 
-This strategy is highly effective in terms of privacy and security, making it an excellent choice for maintaining anonymity. The use of Monero and multiple wallets minimizes traceability, and storing assets in a hardware wallet adds an extra layer of security. However, the complexity of execution and potential scrutiny when converting funds to fiat in Brazil are important considerations. Proper documentation and legal consultation are recommended to ensure compliance and mitigate risks.
+**Tax Efficiency:**
+
+- Optimized tax planning with Brazilian tax advisors to ensure minimal liabilities.
+
+**Ease of Execution:**
+
+- Simplified process with fewer steps while maintaining privacy and security.
+
+**Risk Management:**
+
+- Comprehensive backup and recovery plans and thorough documentation.
