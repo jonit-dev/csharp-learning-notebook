@@ -16,7 +16,12 @@
 
 #### Fiat x Crypto
 
-##### Option A
+#### Option A (BEST)
+
+1. **Use Bisq**
+   - Buy BTC with Fiat through bis
+
+##### Option B
 
 1. **Transfer Funds from Canada to Brazil, Monthly:**
 
@@ -32,11 +37,6 @@
 
    - **Action:** Buy MATIC on a CEX and withdraw to a KYC'd wallet (MetaMask).
    - **Benefit:** Directly links the purchase to a known and transparent exchange.
-
-#### Option B
-
-1. **Use Bisq**
-   - Buy BTC with Fiat through bis
 
 #### Option C
 
